@@ -35,10 +35,3 @@ Featured Projects
 
 ---
 
-About Me:
-I’m building a portfolio to apply for "Data Engineering programs and alternance roles" focused on:
-- Data pipelines  
-- On-chain data  
-- Market analytics  
-- Python & SQL  
-
