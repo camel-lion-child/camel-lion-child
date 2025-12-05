@@ -21,12 +21,13 @@ Featured Projects
 
 ---
 
-2. DeFi SQL Analytics (Dune)
-- TVL trends  
-- Protocol-level insights  
-- Real-world SQL queries using on-chain data  
+2. Aave V3 Cross-Chain Lending
 
-*Dune Dashboard: 
+End-to-end pipeline using Dune API + Python to extract, clean, and analyze real on-chain liquidity data on Aave V3.
+
+*Repository: https://github.com/camel-lion-child/aave_v3_cross_chain_lending
+
+*Dune Dashboard: https://dune.com/witin_paris/cross-chain-lending-activity-on-aave-v3
 
 ---
 
