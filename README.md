@@ -23,7 +23,7 @@ Featured Projects
 
 2. Aave V3 Cross-Chain Lending
 
-End-to-end pipeline using Dune API + Python to extract, clean, and analyze real on-chain liquidity data on Aave V3.
+End-to-end pipeline using Dune SQL, Dune API, Python ETL, and Jupyter EDA to extract, clean, and analyze real on-chain liquidity data on Aave V3.
 
 *Repository: [aave_v3_cross_chain_lending](https://github.com/camel-lion-child/aave_v3_cross_chain_lending)
 
