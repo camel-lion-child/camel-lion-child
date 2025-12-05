@@ -13,9 +13,8 @@ Technologies I'm learning and applying:
 Featured Projects
 
 1. DeFi Market Data Pipeline – ETL (Python)
-- Extract TVL from DefiLlama & prices from CoinGecko  
-- Transform into clean, analysis-ready Parquet datasets  
-- Structured like a real Data Engineer project  
+   
+Extracts DeFi TVL from DefiLlama and token prices from CoinGecko, transforms them into clean analysis-ready Parquet datasets, structured like a real Data Engineering project.
 
 *Repository: [defi_market_data_pipeline](https://github.com/camel-lion-child/defi_market_data_pipeline)
 
