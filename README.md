@@ -12,7 +12,17 @@ Technologies I'm learning and applying:
 
 Featured Projects
 
-1. DeFi Market Data Pipeline – ETL (Python)
+1. ETH CEX Flows Warehouse
+
+Combines on-chain exchange flow data (Dune), market price data (Binance), and network activity metrics (Etherscan) into clean daily tables, enabling exploratory analysis of ETH liquidity positioning, exchange flows, and market context.
+
+*Repository: [defi_market_data_pipeline]()
+
+*Dune Chart: [5971722/9632775](https://dune.com/queries/5971722/9632775)
+
+---
+
+2. DeFi Market Data Pipeline – ETL (Python)
    
 Extracts DeFi TVL from DefiLlama and token prices from CoinGecko, transforms them into clean analysis-ready Parquet datasets, structured like a real Data Engineering project.
 
@@ -20,7 +30,7 @@ Extracts DeFi TVL from DefiLlama and token prices from CoinGecko, transforms the
 
 ---
 
-2. Aave V3 Cross-Chain Lending
+3. Aave V3 Cross-Chain Lending
 
 End-to-end pipeline using Dune SQL, Dune API, Python ETL, and Jupyter EDA to extract, clean, and analyze real on-chain liquidity data on Aave V3.
 
