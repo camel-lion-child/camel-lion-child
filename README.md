@@ -16,9 +16,9 @@ Featured Projects
 
 Combines on-chain exchange flow data (Dune), market price data (Binance), and network activity metrics (Etherscan) into clean daily tables, enabling exploratory analysis of ETH liquidity positioning, exchange flows, and market context.
 
-*Repository: [defi_market_data_pipeline]()
+*Repository: [Warehouse: ETH Flows on CEXs](https://github.com/camel-lion-child/eth_cex_flows_warehouse)
 
-*Dune Chart: [5971722/9632775](https://dune.com/queries/5971722/9632775)
+*Dune Chart: [ETH Inflow & Outflow on CEXs](https://dune.com/queries/5971722/9632775)
 
 ---
 
