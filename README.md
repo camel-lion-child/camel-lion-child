@@ -24,7 +24,7 @@ Combines on-chain exchange flow data (Dune), market price data (Binance), and ne
 
 2. DeFi Market Data Pipeline – ETL (Python)
    
-Extracts DeFi TVL from DefiLlama and token prices from CoinGecko, transforms them into clean analysis-ready Parquet datasets, structured like a real Data Engineering project.
+Extracts DeFi TVL from DefiLlama and BTC/ETH price from Binance, transforms them into clean analysis-ready Parquet datasets, structured like a real Data Engineering project.
 
 *Repository: [defi_market_data_pipeline](https://github.com/camel-lion-child/defi_market_data_pipeline)
 
