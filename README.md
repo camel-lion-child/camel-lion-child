@@ -14,7 +14,7 @@ Featured Projects
 
 1. ETH CEX Flows Warehouse
 
-Combines on-chain exchange flow data (Dune), market price data (Binance), and network activity metrics (Etherscan) into clean daily tables, enabling exploratory analysis of ETH liquidity positioning, exchange flows, and market context.
+Combining on-chain exchange flow data (Dune), market price data (Binance), and network activity metrics (Etherscan) into clean daily tables, enabling exploratory analysis of ETH liquidity positioning, exchange flows, and market context.
 
 *Repository: [Warehouse: ETH Flows on CEXs](https://github.com/camel-lion-child/eth_cex_flows_warehouse)
 
@@ -24,9 +24,9 @@ Combines on-chain exchange flow data (Dune), market price data (Binance), and ne
 
 2. DeFi Market Data Pipeline – ETL (Python)
    
-Extracts DeFi TVL from DefiLlama and BTC/ETH price from Binance, transforms them into clean analysis-ready Parquet datasets, structured like a real Data Engineering project.
+Extracting DeFi TVL from DefiLlama and BTC/ETH price from Binance, transforming them into clean analysis-ready Parquet datasets, structured like a real Data Engineering project.
 
-*Repository: [defi_market_data_pipeline](https://github.com/camel-lion-child/defi_market_data_pipeline)
+*Repository: [Pipeline: DeFi Market Data](https://github.com/camel-lion-child/defi_market_data_pipeline)
 
 ---
 
@@ -34,9 +34,9 @@ Extracts DeFi TVL from DefiLlama and BTC/ETH price from Binance, transforms them
 
 End-to-end pipeline using Dune SQL, Dune API, Python ETL, and Jupyter EDA to extract, clean, and analyze real on-chain liquidity data on Aave V3.
 
-*Repository: [aave_v3_cross_chain_lending](https://github.com/camel-lion-child/aave_v3_cross_chain_lending)
+*Repository: [Aave V3 Cross-Chain Lending](https://github.com/camel-lion-child/aave_v3_cross_chain_lending)
 
-*Dune Dashboard: [cross-chain-lending-activity-on-aave-v3](https://dune.com/witin_paris/cross-chain-lending-activity-on-aave-v3)
+*Dune Dashboard: [Cross Chain Lending Activity on Aave V3](https://dune.com/witin_paris/cross-chain-lending-activity-on-aave-v3)
 
 ---
 
@@ -50,7 +50,7 @@ Data pipeline for crypto, ETF, and macro market data using Yahoo Finance, Coinba
 
 5. GDELT Data Pipeline
 
-Implements a simple data pipeline using the GDELT dataset to ingest, clean, and analyze global news events for a given day. 
+Implementing a simple data pipeline using the GDELT dataset to ingest, clean, and analyze global news events for a given day. 
 
 *Repository: [Pipeline: GDELT Data](https://github.com/camel-lion-child/gdelt_data_pipeline)
 
