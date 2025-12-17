@@ -40,7 +40,23 @@ End-to-end pipeline using Dune SQL, Dune API, Python ETL, and Jupyter EDA to ext
 
 ---
 
-3. Streamlit (upcoming)
+4. Macro Market News Pipeline
+
+Data pipeline for crypto, ETF, and macro market data using Yahoo Finance, Coinbase, with normalized storage in DuckDB and SQL-based data quality checks.
+
+*Repository: [Pipeline: Macro Market News](https://github.com/camel-lion-child/macro_markets_news_pipeline)
+
+---
+
+5. GDELT Data Pipeline
+
+Implements a simple data pipeline using the GDELT dataset to ingest, clean, and analyze global news events for a given day. 
+
+*Repository: [Pipeline: GDELT Data](https://github.com/camel-lion-child/gdelt_data_pipeline)
+
+---
+
+6. Streamlit (upcoming)
 - Small dashboard to visualize DeFi metrics and analytics.
 
 ---
