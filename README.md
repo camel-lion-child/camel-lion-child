@@ -56,8 +56,15 @@ Implementing a simple data pipeline using the GDELT dataset to ingest, clean, an
 
 ---
 
-6. Streamlit (upcoming)
-- Small dashboard to visualize DeFi metrics and analytics.
+6. DeFi intelligence dashboards.
+
+Build DeFi dashboards from raw on-chain data, featuring TVL, protocol, and category analysis using Python, ETL pipeline and Streamlit.
+
+*Repository: [Witin - DeFi Intelligence](https://github.com/camel-lion-child/witin_defi_intelligence)
+
+*Streamlit: [Witin - Where Data Becomes Conviction](https://witinnode.streamlit.app/)
+
+> Note: The app may take ~10–20 seconds to wake up on first access due to Streamlit Cloud cold start.
 
 ---
 
