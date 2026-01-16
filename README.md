@@ -4,7 +4,7 @@ I'm transitioning into "Data Engineering for DeFi" with a strong background in d
 
 Technologies I'm learning and applying:
 - Python (ETL, APIs)
-- SQL (Dune Analytics)
+- SQL (PostgreSQL, Dune Analytics)
 - Data Engineering fundamentals
 - DeFi data, market structure, TVL and protocol analytics
 
