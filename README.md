@@ -1,8 +1,8 @@
 Hi, I'm Huyen :)
 
-I'm transitioning into "Data Engineering for DeFi" with a strong background in data analysis and finance.
+I'm transitioning into Data Engineering with a strong background in data analysis and finance.
 
-Technologies I'm learning and applying:
+Technologies I'm applying:
 - Python (ETL, APIs)
 - SQL (PostgreSQL, Dune Analytics)
 - Data Engineering fundamentals
