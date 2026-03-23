@@ -1,5 +1,4 @@
-# Huyen Tran  
-**Data Engineer | Financial Data & DeFi Analytics**
+Hi, I'm Huyen :)
 
 I build data pipelines and analytical systems to understand financial markets.
 
@@ -27,7 +26,8 @@ Featured Projects
 
 1. ETH CEX Flows Warehouse
 
-Combining on-chain exchange flow data (Dune), market price data (Binance), and network activity metrics (Etherscan) into clean daily tables, enabling exploratory analysis of ETH liquidity positioning, exchange flows, and market context.
+Build a data warehouse to track how capital moves between investors and exchanges.
+Business value: helps understand whether investors are accumulating or selling assets. 
 
 *Repository: [Warehouse: ETH Flows on CEXs](https://github.com/camel-lion-child/eth_cex_flows_warehouse)
 
@@ -37,7 +37,8 @@ Combining on-chain exchange flow data (Dune), market price data (Binance), and n
 
 2. DeFi Market Data Pipeline – ETL (Python)
    
-Extracting DeFi TVL from DefiLlama and BTC/ETH price from Binance, transforming them into clean analysis-ready Parquet datasets.
+End-to-end pipeline to structure decentralized finance (DeFi) data.
+Business value: identifies which platforms attract capital and how liquidity evolves.
 
 *Repository: [Pipeline: DeFi Market Data](https://github.com/camel-lion-child/defi_market_data_pipeline)
 
@@ -45,7 +46,8 @@ Extracting DeFi TVL from DefiLlama and BTC/ETH price from Binance, transforming 
 
 3. Aave V3 Cross-Chain Lending
 
-End-to-end pipeline using Dune SQL, Dune API, Python ETL, and Jupyter EDA to extract, clean, and analyze real on-chain liquidity data on Aave V3.
+Analyze lending activity across multiple blockchain networks.
+Business value: evaluates capital distribution and risk across markets.  
 
 *Repository: [Aave V3 Cross-Chain Lending](https://github.com/camel-lion-child/aave_v3_cross_chain_lending)
 
@@ -55,7 +57,8 @@ End-to-end pipeline using Dune SQL, Dune API, Python ETL, and Jupyter EDA to ext
 
 4. Macro Market News Pipeline
 
-Data pipeline for crypto, ETF, and macro market data using Yahoo Finance, Coinbase, with normalized storage in DuckDB and SQL-based data quality checks.
+Build a unified dataset combining crypto, ETFs, and macro indicators.
+Business value: connects crypto markets with the broader financial environment.
 
 *Repository: [Pipeline: Macro Market News](https://github.com/camel-lion-child/macro_markets_news_pipeline)
 
@@ -63,7 +66,8 @@ Data pipeline for crypto, ETF, and macro market data using Yahoo Finance, Coinba
 
 5. GDELT Data Pipeline
 
-Implementing a simple data pipeline using the GDELT dataset to ingest, clean, and analyze global news events for a given day. 
+Process global news data to capture geopolitical events and sentiment.
+Business value: explores how global events influence financial markets.  
 
 *Repository: [Pipeline: GDELT Data](https://github.com/camel-lion-child/gdelt_data_pipeline)
 
@@ -71,7 +75,8 @@ Implementing a simple data pipeline using the GDELT dataset to ingest, clean, an
 
 6. DeFi intelligence dashboards.
 
-Build DeFi dashboards from raw on-chain data, featuring TVL, protocol, and category analysis using Python, ETL pipeline and Streamlit.
+Interactive dashboard to explore DeFi market data.
+Business value: makes complex data accessible for decision-making  .
 
 *Repository: [Witin - DeFi Intelligence](https://github.com/camel-lion-child/witin_defi_intelligence)
 
