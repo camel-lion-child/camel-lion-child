@@ -1,12 +1,27 @@
-Hi, I'm Huyen :)
+# Huyen Tran  
+**Data Engineer | Financial Data & DeFi Analytics**
 
-I'm transitioning into Data Engineering with a strong background in data analysis and finance.
+Paris, France  
+
+I build data pipelines and analytical systems to understand financial markets.
+
+My work focuses on combining multiple data sources:
+- Market data (prices, volumes, ETFs)
+- On-chain data (blockchain activity)
+- Macro signals (interest rates, dollar index, commodities)
+- Alternative data (global news events)
+
+The goal is to transform complex data into structured datasets that support analysis, decision-making, and market understanding.
 
 Technologies I'm applying:
-- Python (ETL, APIs)
-- SQL (PostgreSQL, Dune Analytics)
-- Data Engineering fundamentals
-- DeFi data, market structure, TVL and protocol analytics
+
+- Python (ETL, APIs, data transformation)
+- SQL (data modeling, analytical queries)
+- DuckDB / PostgreSQL (OLAP storage)
+- Parquet (efficient data storage)
+- Streamlit (data apps & dashboards)
+- Dune Analytics (on-chain data)
+- Git / Linux / Bash
 
 ---
 
