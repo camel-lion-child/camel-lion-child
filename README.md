@@ -1,8 +1,6 @@
 # Huyen Tran  
 **Data Engineer | Financial Data & DeFi Analytics**
 
-Paris, France  
-
 I build data pipelines and analytical systems to understand financial markets.
 
 My work focuses on combining multiple data sources:
