@@ -27,7 +27,7 @@ Featured Projects
 1. ETH CEX Flows Warehouse
 
 Build a data warehouse to track how capital moves between investors and exchanges.
-Business value: helps understand whether investors are accumulating or selling assets. 
+It helps understand whether investors are accumulating or selling assets. 
 
 *Repository: [Warehouse: ETH Flows on CEXs](https://github.com/camel-lion-child/eth_cex_flows_warehouse)
 
@@ -47,7 +47,7 @@ Business value: identifies which platforms attract capital and how liquidity evo
 3. Aave V3 Cross-Chain Lending
 
 Analyze lending activity across multiple blockchain networks.
-Business value: evaluates capital distribution and risk across markets.  
+We can evaluate capital distribution and risk across markets.  
 
 *Repository: [Aave V3 Cross-Chain Lending](https://github.com/camel-lion-child/aave_v3_cross_chain_lending)
 
@@ -58,7 +58,7 @@ Business value: evaluates capital distribution and risk across markets.
 4. Macro Market News Pipeline
 
 Build a unified dataset combining crypto, ETFs, and macro indicators.
-Business value: connects crypto markets with the broader financial environment.
+Connecting crypto markets with the broader financial environment.
 
 *Repository: [Pipeline: Macro Market News](https://github.com/camel-lion-child/macro_markets_news_pipeline)
 
@@ -67,7 +67,7 @@ Business value: connects crypto markets with the broader financial environment.
 5. GDELT Data Pipeline
 
 Process global news data to capture geopolitical events and sentiment.
-Business value: explores how global events influence financial markets.  
+Exploring how global events influence financial markets.  
 
 *Repository: [Pipeline: GDELT Data](https://github.com/camel-lion-child/gdelt_data_pipeline)
 
