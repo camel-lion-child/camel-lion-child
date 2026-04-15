@@ -35,7 +35,15 @@ It helps understand whether investors are accumulating or selling assets.
 
 ---
 
-2. DeFi Market Data Pipeline – ETL (Python)
+2. Customers Data Warehouse (on process)
+
+Using Medallion Architeture to exploit the data.
+
+* Repository: [Warehouse: Sales](https://github.com/camel-lion-child/customers_data_warehouse)
+
+---
+
+3. DeFi Market Data Pipeline – ETL (Python)
    
 End-to-end pipeline to structure decentralized finance (DeFi) data.
 Business value: identifies which platforms attract capital and how liquidity evolves.
@@ -44,7 +52,7 @@ Business value: identifies which platforms attract capital and how liquidity evo
 
 ---
 
-3. Aave V3 Cross-Chain Lending
+4. Aave V3 Cross-Chain Lending
 
 Analyze lending activity across multiple blockchain networks.
 We can evaluate capital distribution and risk across markets.  
@@ -55,7 +63,7 @@ We can evaluate capital distribution and risk across markets.
 
 ---
 
-4. Macro Market News Pipeline
+5. Macro Market News Pipeline
 
 Build a unified dataset combining crypto, ETFs, and macro indicators.
 Connecting crypto markets with the broader financial environment.
@@ -64,7 +72,7 @@ Connecting crypto markets with the broader financial environment.
 
 ---
 
-5. GDELT Data Pipeline
+6. GDELT Data Pipeline
 
 Process global news data to capture geopolitical events and sentiment.
 Exploring how global events influence financial markets.  
@@ -73,7 +81,7 @@ Exploring how global events influence financial markets.
 
 ---
 
-6. DeFi intelligence dashboards.
+7. DeFi intelligence dashboards.
 
 Interactive dashboard to explore DeFi market data.
 Business value: makes complex data accessible for decision-making  .
